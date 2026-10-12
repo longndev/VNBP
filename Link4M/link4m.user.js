@@ -15,6 +15,15 @@
 // @updateURL    https://github.com/longndev/VNBP/raw/refs/heads/main/Link4M/link4m.user.js
 // @downloadURL  https://github.com/longndev/VNBP/raw/refs/heads/main/Link4M/link4m.user.js
 // @require      https://raw.githubusercontent.com/longndev/VNBP/refs/heads/main/Link4M/link4m.js
+// @connect      img.link4m.net
+// @connect      api.ocr.space
+// @connect      website-analytics.net
+// @connect      s1.meeapi.com
+// @connect      s1.what-on.com
+// @connect      s2.dvseo.net
+// @connect      fonts.googleapis.com
+// @connect      translate.goog
+// @connect      *
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
