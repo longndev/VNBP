@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Link4M Bypass (VNBP)
 // @namespace    https://link4m.net/
-// @version      4.4.0
+// @version      4.4.1
 // @description  bypass link4m cho các con dân cụt tay của vnbp
 // @match        https://link4m.net/*
 // @match        https://link4m.com/*
@@ -30,9 +30,9 @@
 // @grant        GM_deleteValue
 // @grant        unsafeWindow
 // ==/UserScript==
-// VN: + Xin vui lòng đừng cố gắng skid hoặc deobfuscate code này để remake tool mà không có sự cho phép của VNBypass (https://discord.com/invite/4WNZx7DMQ4)
+// VN: + Xin vui lòng đừng cố gắng skid hoặc deobfuscate code này để remake tool mà không có sự cho phép của VNBypass (https://discord.com/invite/bypass-link-rut-gonmeo-bypassmeobypass-com-1385559183163789445)
 //     + Xin bạn vui lòng không trở thành một thằng skidder tật não
-//     + Nếu muốn đóng góp về các phương pháp bypass mới xin vui lòng join https://discord.com/invite/4WNZx7DMQ4, chúng tôi luôn sẵn sàng tiếp nhận những thông tin mới
-// EN: + Please do not attempt to "skid" or deobfuscate this code to remake the tool without permission from VNBypass (https://discord.com/invite/4WNZx7DMQ4)
+//     + Nếu muốn đóng góp về các phương pháp bypass mới xin vui lòng join https://discord.com/invite/bypass-link-rut-gonmeo-bypassmeobypass-com-1385559183163789445, chúng tôi luôn sẵn sàng tiếp nhận những thông tin mới
+// EN: + Please do not attempt to "skid" or deobfuscate this code to remake the tool without permission from VNBypass (https://discord.com/invite/bypass-link-rut-gonmeo-bypassmeobypass-com-1385559183163789445)
 //     + Please do not be a brain-dead skidder.
-//     + If you wish to contribute new bypass methods, please join https://discord.com/invite/4WNZx7DMQ4; we are always open to new information.
+//     + If you wish to contribute new bypass methods, please join https://discord.com/invite/bypass-link-rut-gonmeo-bypassmeobypass-com-1385559183163789445; we are always open to new information.
